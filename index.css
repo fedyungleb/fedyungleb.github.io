@@ -1,0 +1,130 @@
+.img-circle {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+#header {
+    background-image: url("https://www.sololearn.com/Uploads/header.jpg");
+    background-size: cover;
+}
+#header img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    }
+#header p {
+    font-size: 25pt;
+    color: #3b464c;
+    padding-top: 5px;
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke:0.5px white;}
+    ul { 
+list-style-type: none;
+padding: 0; 
+margin: 0; 
+background-color: #F2C777; 
+ border: 3px ridge white;
+} 
+li { 
+display: inline-block;
+ border-right: 2px ridge white;
+} 
+li a { 
+display: block; 
+padding: 10px; 
+color: #7C785B;
+
+} 
+li a:hover { 
+background-color: #EC8C65; 
+}
+li a:hover {
+padding: 10px;
+}
+li a {
+text-decoration: none;
+font-family: 'Handlee', cursive;  
+
+}
+.text{
+    margin-top: 30px;
+    border: 3px solid white;
+    background: linear-gradient(to top,   #FF6347, #F4A460);
+    padding: 20px 25px;
+     font-family: 'Handlee', cursive;
+     color:green;
+     margin-right:40px;  
+    margin-left:40px;
+}
+body{
+background-image: url(https://cdn.pixabay.com/photo/2013/02/21/19/10/grass-84622__340.jpg);
+
+}
+#contacts{
+    margin-top:30px;
+    border: 3px ridge white;
+    border-radius: 50%;
+    padding: 60px 45px;
+    background:linear-gradient(to top,   #FF6347, #F4A460);
+    text-align: center;
+    margin-right:100px;
+    margin-left: 100px;
+}
+.aboutme{
+   font-family: 'Handlee', cursive;
+   text-decoration: none; 
+   color:green;
+}
+h1{
+  font-family:  Courier New; 
+  color: #ADD8E6; 
+}
+table{
+    margin-top:30px;
+    border: 3px ridge white;
+    border-radius: 13%;
+    padding: 10px 15px;
+    background:linear-gradient(to top,   #FF6347, #F4A460);
+}
+.one{
+   font-family: 'Handlee', cursive;   
+   background-color: #F0E68C;
+   color:#B22222;
+
+}
+.two{
+   background-color: #B22222; 
+   font-family: 'Handlee', cursive; 
+   color: #F0E68C;
+}
+.team{
+    font-size: 20px;
+    border: 3px ridge white;
+    width:16%;
+    text-align: center;
+    font-family:  Courier New;
+    background:linear-gradient(to top,   #FF6347, #F4A460);    
+    color: #ADD8E6 ;
+}
+    
+.icon{
+    float: right;
+    margin-right: 250px;
+    border: 3px ridge white;
+    background:linear-gradient(to top,   #FF6347, #F4A460);
+    padding: 10px 15px;
+   
+
+}
+.hurt{
+  margin-left: 300px;
+  margin-right:200px;
+}

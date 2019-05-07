@@ -1,0 +1,93 @@
+.img-circle {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+#header {
+    background-image: url("https://www.sololearn.com/Uploads/header.jpg");
+    background-size: cover;
+}
+#header img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    }
+#header h1 {
+    text-align: center;
+    font-size: 25pt;
+    color: #3b464c;
+    padding-top: 5px;
+    margin: 0;
+    font-weight: bold;
+    
+    -webkit-text-stroke:0.5px white;}
+   #nav  { 
+list-style-type: none;
+padding: 0; 
+margin: 0; 
+background: #F2C777; 
+ border: 3px ridge white;
+} 
+#nav li { 
+display: inline-block;
+ border-right: 2px ridge white;
+} 
+ #nav li a { 
+display: block; 
+padding: 10px; 
+color: #7C785B;
+
+} 
+#nav li a:hover { 
+background-color: #EC8C65; 
+}
+ #nav li a:hover {
+padding: 10px;
+}
+#nav li a {
+text-decoration: none;
+font-family: 'Handlee', cursive;  
+
+}
+body{
+background-image: url(https://cdn.pixabay.com/photo/2013/02/21/19/10/grass-84622__340.jpg);}
+blockquote {
+    padding: 20px;
+    margin: 0 0 32px;
+    border-left: 3px solid #D74A30;
+    background: #DEB887;
+    width: 50%;
+}
+.main{
+    background: #F5F5DC;
+    padding: 30px 60px;
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-top: 20px;
+    border:6px ridge #DCDCDC;
+}
+p{
+    width: 80%;
+}
+img{
+    border:3px ridge #DCDCDC;
+    margin-top:15px;
+    margin-bottom: 15px;
+}
+.second{
+    width: 85%;
+     font-family: 'Handlee', cursive;
+     color: brown;
+}
+h2{
+    font-family: 'ChanticleerRomanRUS', cursive;
+}
+p{
+    font-family: 'Unnamed Light', cursive;
+}
